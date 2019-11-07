@@ -20,4 +20,5 @@ Gem::Specification.new do |s|
   s.test_files = Dir['test/**/*']
 
   s.add_dependency 'rails_com', '>= 1.2.9'
+  s.add_dependency 'default_form'
 end
